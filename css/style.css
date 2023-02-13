@@ -73,7 +73,7 @@ footer{
 /* try give each a tag a unique id in your HTML and then set different background images here*/
 /* EXAMPLE CSS: won't work if you just un-comment this:*/
 
-.flex-item a#I am watching you{
+.flex-item a#watching{
     background-image: url(../assets/images/1111.png); 
 }
 
