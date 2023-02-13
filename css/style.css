@@ -58,7 +58,7 @@ footer{
     width: 100%;
     height: 0;
     padding: 30% 0;
-    background-image: url(../assets/images/.png); /*change the image to one of you choice */
+    background-image: url(../assets/images/lightgrey-line.jpeg); /*change the image to one of you choice */
     background-position: center;
     background-size: 100%;
     justify-content: center;
@@ -75,6 +75,17 @@ footer{
 /* EXAMPLE CSS: won't work if you just un-comment this:*/
 .flex-item a#I‘m watching you{
     background-image: url(../assets/images/1111.png); 
+}
+
+.flex-item a#Poem{
+    background-image: url(../assets/images/222.png); 
+}
+
+.flex-item a#OOP{
+    background-image: url(../assets/images/333.png); 
+}
+.flex-item a#OOP{
+    background-image: url(../assets/images/333.png); 
 }
 
 
