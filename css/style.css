@@ -84,9 +84,13 @@ footer{
 .flex-item a#OOP{
     background-image: url(../assets/images/333.png); 
 }
-.flex-item a#OOP{
-    background-image: url(../assets/images/333.png); 
+.flex-item a#scrape{
+    background-image: url(../assets/images/lightgrey-line.jpeg); 
 }
+.flex-item a#data set{
+    background-image: url(../assets/images/555.png); 
+}
+
 
 
 .flex-item a:hover{
