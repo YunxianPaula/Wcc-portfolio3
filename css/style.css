@@ -1,13 +1,6 @@
 
 /*This is a comment in CSS*/
 
-body{
-    font-family: Verdana, sans-serif;
-    /* margin: 0; */
-    margin-top: 2%;
-    background-size: 10%;
-    background-image: url(../assets/images/back.jpg);
-}
 
 h1{
     font-size: 30px;
@@ -20,6 +13,14 @@ p{
 
 header{
     padding:0 3%;
+}
+
+body{
+    font-family: Verdana, sans-serif;
+    margin: 0;
+    margin-top: 2%;
+    background-size: 10%;
+    background-image: url(../assets/images/back.jpg);
 }
 
 main{
